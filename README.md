@@ -9,9 +9,8 @@
 
 <!-- Skill -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<img height="40" src="https://skillicons.dev/icons?i=react,redux,vue,mui,bootstrap,html,css,sass,js,ts"/>
-<img height="40" src="https://skillicons.dev/icons?i=nodejs,express,ruby,postgresql,mysql,docker"/> 
-<img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,windows,ubuntu"/>
+<img height="40" src="https://skillicons.dev/icons?i=react,redux,vue,mui,bootstrap,html,css,sass,js,ts,nodejs,express,ruby,postgresql,mysql"/>
+<img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,windows,ubuntu,ysql,docke"/>
 <br><br>
 
 <!-- start -->
